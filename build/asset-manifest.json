@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.311fb969.css",
+    "main.js": "/static/js/main.ea68493b.js",
+    "static/media/background.png": "/static/media/background.86cf798f2841eedecec5.png",
+    "static/media/roberto.png": "/static/media/roberto.a2059c3fab32fdb26e25.png",
+    "static/media/filipe.png": "/static/media/filipe.4fed6868cbf0fe6911ed.png",
+    "static/media/peter.png": "/static/media/peter.09090583df55c3fca6fc.png",
+    "static/media/luis.png": "/static/media/luis.9a683d86afee594effa2.png",
+    "static/media/regioes_atendidas.svg": "/static/media/regioes_atendidas.11a8734265fc3fb68a9e533f81e1f1a4.svg",
+    "static/media/gabriel.png": "/static/media/gabriel.e66061e515c46bb89db2.png",
+    "static/media/batista.png": "/static/media/batista.3b1478959067ae2c718b.png",
+    "static/media/luisf.png": "/static/media/luisf.3d36c4c01309a7450272.png",
+    "static/media/carlos.png": "/static/media/carlos.24df149af0e05c199b21.png",
+    "static/media/junior.png": "/static/media/junior.0955b23fa55d56cf1f1c.png",
+    "static/media/silvana.png": "/static/media/silvana.301dcc7753e407179b1f.png",
+    "static/media/eduardo.png": "/static/media/eduardo.4976ea574e567b7d33da.png",
+    "static/media/rafael.png": "/static/media/rafael.503e25a5d93c787cfbc4.png",
+    "static/media/clodoveu.png": "/static/media/clodoveu.a2b024f5ad371e649983.png",
+    "static/media/thierry.png": "/static/media/thierry.95fad1807aec6921893b.png",
+    "static/media/karla.png": "/static/media/karla.bd7ec4ffe0f092379e50.png",
+    "static/media/jerome.png": "/static/media/jerome.8e7d8c085a073f468801.png",
+    "index.html": "/index.html",
+    "main.311fb969.css.map": "/static/css/main.311fb969.css.map",
+    "main.ea68493b.js.map": "/static/js/main.ea68493b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311fb969.css",
+    "static/js/main.ea68493b.js"
+  ]
+}
