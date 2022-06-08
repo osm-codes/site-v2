@@ -1,12 +1,11 @@
 import React from "react";
+import Logo from "../assets/img/logo.png";
 
 const Header = (props) => (
   <header>
     <div className="brand">
       <a href="/">
-        <svg>
-          <use xlinkHref="#logosvg"></use>
-        </svg>
+        <img alt="OSM-Codes" src={Logo} />
       </a>
     </div>
 

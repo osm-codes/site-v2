@@ -1,12 +1,13 @@
 import React from "react";
+import Logo from "../assets/img/logo.png";
 
 const Rodape = () => (
   <footer>
     <div className="col">
       <div className="brand">
-        <svg>
-          <use xlinkHref="#logosvg"></use>
-        </svg>
+        <a href="/">
+          <img alt="OSM-Codes" src={Logo} />
+        </a>
       </div>
     </div>
     <div className="col">
